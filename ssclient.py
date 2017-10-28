@@ -89,7 +89,7 @@ class Socks5Server(socketserver.StreamRequestHandler):
 
     def handle(self):
         try:
-            sock = self.connction
+            sock = self.request
             sock.recv(256)
             sock.send(b'\x05\x00')
             data = self.rfile.read(4)

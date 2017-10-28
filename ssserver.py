@@ -82,7 +82,7 @@ class Socks5Server(socketserver.StreamRequestHandler):
 
     def handle(self):
         try:
-            sock = self.connection
+            sock = self.request
             addrtype = int.from_bytes(
                 self.decrypt(sock.recv(1)), byteorder='big')
             if addrtype == 1:
