@@ -59,8 +59,10 @@ class Socks5Server(socketserver.StreamRequestHandler):
             fdset = [sock, remote]
             while True:
                 r, w, e = select.select(fdset, [], [])
+                logger.debug('have new connection'+str(r))
                 if sock in r:
                     data = sock.recv(4096)
+                    logger.debug('new data')
                     if len(data) == 0:
                         break
                     result = send_all(remote, self.encrypt(data))
