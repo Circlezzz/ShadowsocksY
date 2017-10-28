@@ -90,7 +90,7 @@ class Socks5Server(socketserver.StreamRequestHandler):
             elif addrtype == 3:
                 addr = self.decrypt(
                     self.rfile.read(
-                        int.from_bytes(self.decrypt(sock.recv(1)))))
+                        int.from_bytes(self.decrypt(sock.recv(1)),byteorder='big')))
             elif addrtype == 4:
                 addr = socket.inet_ntop(socket.AF_INET6,
                                         self.decrypt(self.rfile.read(16)))

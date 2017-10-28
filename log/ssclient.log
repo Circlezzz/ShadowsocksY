@@ -2,3 +2,54 @@
 2017-10-28 17:20:09,545 - ssclient.py[line:140] - ERROR: [WinError 10053] An established connection was aborted by the software in your host machine
 2017-10-28 17:22:44,807 - ssclient.py[line:141] - ERROR: [WinError 10053] An established connection was aborted by the software in your host machine
 2017-10-28 17:22:44,807 - ssclient.py[line:141] - ERROR: [WinError 10053] An established connection was aborted by the software in your host machine
+2017-10-28 17:35:23,181 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,181 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,181 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,182 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,183 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,183 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,183 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,184 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,184 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,184 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,185 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,185 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,185 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,186 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,187 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,187 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,188 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,189 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,189 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,189 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,670 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,671 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,672 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,672 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,673 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,674 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,675 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,675 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,675 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,676 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,677 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:23,677 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:24,281 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:30,290 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:31,552 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:31,855 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
+2017-10-28 17:35:59,766 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,768 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,770 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,771 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,772 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,775 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,777 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,777 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,778 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:35:59,782 - ssclient.py[line:139] - ERROR: [WinError 10054] An existing connection was forcibly closed by the remote host
+2017-10-28 17:36:10,543 - ssclient.py[line:139] - ERROR: [WinError 10053] An established connection was aborted by the software in your host machine
+2017-10-28 17:36:10,543 - ssclient.py[line:139] - ERROR: [WinError 10053] An established connection was aborted by the software in your host machine
+2017-10-28 17:36:10,543 - ssclient.py[line:139] - ERROR: [WinError 10053] An established connection was aborted by the software in your host machine
+2017-10-28 17:36:10,559 - ssclient.py[line:139] - ERROR: [WinError 10053] An established connection was aborted by the software in your host machine
+2017-10-28 17:36:30,804 - ssclient.py[line:135] - ERROR: [WinError 10061] No connection could be made because the target machine actively refused it
