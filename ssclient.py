@@ -140,7 +140,7 @@ class Socks5Server(socketserver.StreamRequestHandler):
 
 
 if __name__ == '__main__':
-    os.chdir(os.path.dirname(__file__))
+    os.chdir(os.path.dirname(__file__) or '.')
     print('Shadowsocks v1.1')
 
     with open('config.json') as f:
