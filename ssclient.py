@@ -93,11 +93,11 @@ class Socks5Server(socketserver.StreamRequestHandler):
             sock.recv(256)
             sock.send(b'\x05\x00')
             data = self.rfile.read(4)
-            _VER = int.from_bytes(data[0], byteorder='big')
-            _CMD = int.from_bytes(data[1], byteorder='big')
-            _RSV = int.from_bytes(data[2], byteorder='big')
-            _ATYP = int.from_bytes(data[3], byteorder='big')
-            addr_to_send = data[3]
+            _VER = data[0]
+            _CMD = data[1]
+            _RSV = data[2]
+            _ATYP = data[3]
+            addr_to_send = data[3:4]
             if _CMD != 1:
                 return
             if _ATYP == 1:
