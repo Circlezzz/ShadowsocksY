@@ -20,7 +20,7 @@ def getlogger():
     logger = logging.getLogger()
     logger.setLevel(logging.DEBUG)
 
-    logfile = './log/ssclient.log'
+    logfile = './log/ss.log'
     fh = logging.FileHandler(logfile)
     fh.setLevel(logging.WARNING)
     ch = logging.StreamHandler()
