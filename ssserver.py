@@ -57,7 +57,6 @@ class Socks5Server(socketserver.StreamRequestHandler):
                 r, w, e = select.select(fdset, [], [])
                 if sock in r:
                     data = sock.recv(4096)
-                    print(data)
                     if len(data) == 0:
                         break
                     result = send_all(remote, self.decrypt(data))
